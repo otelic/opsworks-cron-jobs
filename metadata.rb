@@ -1,0 +1,6 @@
+name              "opsworks-cron-jobs"
+maintainer        "Sean Abrahams"
+maintainer_email  "abrahams@gmail.com"
+license           "MIT"
+description       "Sets or updates cron jobs using the cron resource."
+version           "0.0.1"
